@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Programmatic Representations for Agent Learning Workshop at ICML 2025</title>
+	<title>NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning</title>
 </svelte:head>
 
 <div class="text-lg">
